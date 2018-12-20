@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-theme-default",
-  "description": "Default theme for GitBook",
+  "name": "gitbook-plugin-theme-default-bugFix",
+  "description": "Default theme for GitBook && bugFix by zyx",
   "main": "./index.js",
   "version": "1.0.7",
   "engines": {
