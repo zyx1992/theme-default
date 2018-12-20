@@ -1,2 +1,3 @@
 # Allow _assets folder
 !_assets
+.idea
