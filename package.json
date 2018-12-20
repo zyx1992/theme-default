@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-default-bugFix",
+  "name": "gitbook-plugin-theme-default-bugfix",
   "description": "Default theme for GitBook && bugFix by zyx",
   "main": "./index.js",
   "version": "1.0.7",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "git+https://github.com/GitbookIO/theme-default.git"
   },
   "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
@@ -33,10 +33,7 @@
     "url": "https://github.com/GitbookIO/theme-default/issues"
   },
   "contributors": [
-    {
-      "name": "Samy Pessé",
-      "email": "samy@gitbook.com"
-    }
+    "Samy Pessé <samy@gitbook.com>"
   ],
   "gitbook": {
     "properties": {
@@ -76,5 +73,6 @@
         "default": false
       }
     }
-  }
+  },
+  "homepage": "https://github.com/GitbookIO/theme-default#readme"
 }
